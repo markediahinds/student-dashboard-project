@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.student-dashboard-header {
+    background-color: #6A9C7B;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    margin: 0;
+}
+
+.two-columns {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin: 30px;
+}
