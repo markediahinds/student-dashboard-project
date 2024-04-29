@@ -1,6 +1,6 @@
 import React from 'react'
 import './StudentCardContainer.scss';
-import StudentCard from '../studentCard/studentCard';
+import StudentCard from './studentCard/studentCard';
 
 const StudentCardContainer = ({students}) => {
     return (
