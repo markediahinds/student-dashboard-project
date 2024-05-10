@@ -1,0 +1,13 @@
+.cohort-list__item {
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    border-bottom: 3px solid #5d936e;
+    list-style: none;
+  
+    &:hover {
+      color: #5d936e;
+    } 
+  }
